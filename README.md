@@ -1,4 +1,8 @@
-# I SHAMELESSLY COPIED SOMEONE ELSE'S BOILERPLATE
+# Purpose
+
+Small experiment to see how to test Express endpoints using [Supertest](https://www.npmjs.com/package/supertest) library and queue handling.
+
+**I SHAMELESSLY COPIED SOMEONE ELSE'S BOILERPLATE BELOW**
 
 # node-typescript-boilerplate
 
